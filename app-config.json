@@ -1,0 +1,18 @@
+{
+  "app": {
+    "title": "angular test",
+    "headerTitle": "angular test",
+    "headerColor": "#1843EF",
+    "textColor": "white",
+    "statusBarColor": "#1843EF",
+    "leftButton": "back",
+    "statusBar": "normal",
+    "actionBarHidden": false,
+    "hideAndroidBottomNavigationBar": false,
+    "hideIOSSafeAreaBottom": false
+  },
+  "debug": false,
+  "listCSS": ["angularzmp/styles.ef46db3751d8e999.css"],
+  "listSyncJS": ["angularzmp/runtime.ed0052afbfa8b0b6.js","angularzmp/polyfills.0377e1c3e30891a2.js","angularzmp/main.2b5497719a1be445.js"],
+  "listAsyncJS": []
+}
